@@ -66,6 +66,18 @@ STEP 8) Under memoryacess:
 ![image](https://github.com/tanaymalik/cpusim/assets/86181483/da9e5aca-cdf7-4a82-8f7b-ed55ce7a9a39)
 
 
+STEP 9) Under arithmetic:
+
+![image](https://github.com/tanaymalik/cpusim/assets/86181483/b3d45df5-625f-4c53-98f3-c6fa693c4e84)
+
+
+
+STEP10) under transferRtoR:
+
+![image](https://github.com/tanaymalik/cpusim/assets/86181483/9459d4d2-ca7c-499b-81ff-0d11c5e165ec)
+
+
+
 
 
 
