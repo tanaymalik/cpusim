@@ -10,3 +10,11 @@ step2: under logical add this:
 then also add the dr ar thing from the memoryaccess
 
 done.
+
+
+for the not gate note that only the following is to be changed the rest is the same:
+
+there write:
+
+
+AC<-AC'
