@@ -55,9 +55,10 @@ STEP1)Under transferRtoR insert the AR<PC value
 - then finally decode IR
 
 It should end up looking like this:
+order matters a lot here
 
+![image](https://github.com/tanaymalik/cpusim/assets/86181483/0be6df0a-5f37-4535-b110-2ba89b26fa26)
 
-![image](https://github.com/tanaymalik/cpusim/assets/86181483/573139b7-2b65-4d63-a600-922116ab4e3a)
 
 
 
@@ -66,6 +67,34 @@ It should end up looking like this:
 STEP1) under edit do the following:
 
 ![image](https://github.com/tanaymalik/cpusim/assets/86181483/f94633de-da44-42b7-a85f-9f39606845e4)
+
+STEP2) CREATE 3 'NEW'
+
+
+![image](https://github.com/tanaymalik/cpusim/assets/86181483/24375f2d-5c65-4952-9ebc-21d76f8a5311)
+
+
+STEP4) UNDER IO CREATE INPUT AND OUTPUT:
+
+![image](https://github.com/tanaymalik/cpusim/assets/86181483/81cd2059-11c4-427a-9948-f67fd7ff417b)
+
+STEP5) 
+under implementation every implementation is followed by an 'end'
+
+so when we insert input from IO we follow it by end
+
+same for output
+
+
+STEP6) FOR HAULT
+
+![image](https://github.com/tanaymalik/cpusim/assets/86181483/cbf8ca3d-a076-4db6-b86d-5a83d8e804b0)
+
+ CREATE hault bit under setcondt like this 
+ and then insert followed by end
+ 
+
+
 
 
 
